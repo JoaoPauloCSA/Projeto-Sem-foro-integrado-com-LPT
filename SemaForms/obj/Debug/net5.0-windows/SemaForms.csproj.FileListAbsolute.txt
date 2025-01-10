@@ -1,0 +1,38 @@
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\bin\Debug\net5.0-windows\SemaForms.exe
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\bin\Debug\net5.0-windows\SemaForms.deps.json
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\bin\Debug\net5.0-windows\SemaForms.runtimeconfig.json
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\bin\Debug\net5.0-windows\SemaForms.runtimeconfig.dev.json
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\bin\Debug\net5.0-windows\SemaForms.dll
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\bin\Debug\net5.0-windows\ref\SemaForms.dll
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\bin\Debug\net5.0-windows\SemaForms.pdb
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.csproj.AssemblyReference.cache
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.Form1.resources
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.Properties.Resources.resources
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.csproj.GenerateResource.cache
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.AssemblyInfoInputs.cache
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.AssemblyInfo.cs
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.csproj.CoreCompileInputs.cache
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.dll
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\obj\Debug\net5.0-windows\ref\SemaForms.dll
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.pdb
+C:\Users\Janjao\source\repos\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.genruntimeconfig.cache
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\bin\Debug\net5.0-windows\SemaForms.exe
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\bin\Debug\net5.0-windows\SemaForms.deps.json
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\bin\Debug\net5.0-windows\SemaForms.runtimeconfig.json
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\bin\Debug\net5.0-windows\SemaForms.runtimeconfig.dev.json
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\bin\Debug\net5.0-windows\SemaForms.dll
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\bin\Debug\net5.0-windows\SemaForms.pdb
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.csproj.AssemblyReference.cache
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.Form1.resources
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.Properties.Resources.resources
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.csproj.GenerateResource.cache
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.AssemblyInfoInputs.cache
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.AssemblyInfo.cs
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.csproj.CoreCompileInputs.cache
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.dll
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\obj\Debug\net5.0-windows\refint\SemaForms.dll
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.pdb
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\obj\Debug\net5.0-windows\SemaForms.genruntimeconfig.cache
+E:\Faculdade\Semestre DP\PRCA2\AtivSemaforo-main\AtivSemaforo-main\SemaForms\SemaForms\obj\Debug\net5.0-windows\ref\SemaForms.dll
